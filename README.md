@@ -193,7 +193,7 @@ This project is created as a case study for frontend development assessment.
 
 ## 👤 Author
 
-[Your Name]
+Aamir Muhammad Amin
 [Your Email]
 [GitHub Profile]
 
