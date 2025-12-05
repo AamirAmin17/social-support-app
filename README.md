@@ -194,9 +194,4 @@ This project is created as a case study for frontend development assessment.
 ## 👤 Author
 
 Aamir Muhammad Amin
-[Your Email]
-[GitHub Profile]
-
----
-
-**Note**: This application uses Tailwind CSS v4 and Vite for optimal performance.
+aamir1401a@gmail.com
